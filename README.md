@@ -1,6 +1,6 @@
 # Aplicacion de Encuestas Oficial Django
 
-## En este repositorio estaré llevando las pruebas de la documentacion Oficial de Djago
+## En este repositorio estaré llevando las pruebas de la documentacion Oficial de Django
 
 ## Como subir este repo
 
@@ -16,14 +16,14 @@
 - **Luego para seguir actualizando:**
 
   - git status
-  - git add .
+  - **git add .**
   - git status
-  - git commit -m "second commit"
+  - **git commit -m "second commit"**
   - git status
-  - git push -u origin main
+  - **git push -u origin main**
 
 ## Comentarios
 
-sábado, 12 de diciembre de 2020 0:47
+### sábado, 12 de diciembre de 2020 0:47
 
 Creo esta repo y este readme para seguir una ruta en el desarrollo de esta apliacion, practicar git y practicar django.
