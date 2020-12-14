@@ -24,6 +24,10 @@
 
 ## Comentarios
 
+### lunes, 14 de diciembre de 2020 1:02
+
+He avanzado creanto una primer vista y adaptandome a la forma basica de solicitud y respuesta, en la proxima sigue el manejo con base de datos.
+
 ### sábado, 12 de diciembre de 2020 0:47
 
 Creo esta repo y este readme para seguir una ruta en el desarrollo de esta apliacion, practicar git y practicar django.
