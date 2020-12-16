@@ -24,6 +24,13 @@
 
 ## Comentarios
 
+### martes, 15 de diciembre de 2020 18:13
+
+He aplicado la migracion inicial de django y luego la de la app polls, creando el modelo que interactuará entre python y la base de datos. Vamos aqui:
+
+* [Writing your first Django app, part 2 | Django documentation | Django (djangoproject.com)](https://docs.djangoproject.com/en/3.1/intro/tutorial02/)
+* Playing with the API | Section
+
 ### lunes, 14 de diciembre de 2020 1:02
 
 He avanzado creanto una primer vista y adaptandome a la forma basica de solicitud y respuesta, en la proxima sigue el manejo con base de datos.
