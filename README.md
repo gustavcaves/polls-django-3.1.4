@@ -24,6 +24,10 @@
 
 ## Comentarios
 
+### sábado, 19 de diciembre de 2020 20:49
+
+He avanzado hasta crear la vista de detail y el formulario para votar. Ahora estoy en los test automatizados.
+
 ### martes, 15 de diciembre de 2020 18:13
 
 He aplicado la migracion inicial de django y luego la de la app polls, creando el modelo que interactuará entre python y la base de datos. Vamos aqui:
