@@ -22,7 +22,17 @@
   - git status
   - **git push -u origin main**
 
+## Contraseña Login
+
+gustav | 123456789
+
 ## Comentarios
+
+### martes, 29 de diciembre de 2020 09:10
+
+Terminé los 7 tutoriales de Django Oficial App Polls, El anterior dia de estudio fue el miércoles 23 de diciembre de 2020 pero no subi nada al repo ese dia o no hice anotacion, pero despues de eso pasaron 6 dias sin realizar avances, lo cual me preocupa. Pero bueno ya he finalizado no faltaba mucho solo personalizar el admin el index. Voy a continuar haciendo pruebas. Con los demás tutoriales y estare subiendo avances.
+
+Tambien se me olvifo la contraseña basica para acceder, pero intente varias veces y di con ella, me asuste por que pense que habia pedido el acceso a la aplicacion basica al menos para ver como funciona. La anotare por aqui al inicio.
 
 ### sábado, 19 de diciembre de 2020 20:49
 
