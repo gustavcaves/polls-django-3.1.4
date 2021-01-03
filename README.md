@@ -26,7 +26,16 @@
 
 gustav | 123456789
 
+# Link de Post - Blog
+
+[Polls Encuesta - Tutorial Django Oficial (notion.so)](https://www.notion.so/Polls-Encuesta-Tutorial-Django-Oficial-23183064130a420c999db66b5d16a74d)
+
 ## Comentarios
+
+### lunes, 4 de enero de 2021 0:45
+
+He realizado el tutorial para empaquetar la app y tambien he realizado la instalacion como un modulo. Todo ha salido a la perfeccion y he aprendido a usar las configuraciones mas básicas de Django. Pronto pasare a otros proyectos como el de la pagina de portafolio y tambien una web empresarial.
+
 
 ### martes, 29 de diciembre de 2020 09:10
 
